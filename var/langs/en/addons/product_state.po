@@ -1,0 +1,28 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::product_state"
+msgid "product state"
+msgstr "product state"
+
+msgctxt "Addons::description::product_state"
+msgid "description(product_state)"
+msgstr "Allows you to change the state of the product status"
+
+
+msgctxt "Languages::product_state"
+msgid "product state"
+msgstr "Product state"
+
+
+msgctxt "Languages::good"
+msgid "good"
+msgstr "Good"
+
+
+msgctxt "Languages::destroyed"
+msgid "destroyed"
+msgstr "Destroyed"
